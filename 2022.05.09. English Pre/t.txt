@@ -1,0 +1,42 @@
+-----------------
+孟昊阳
+
+Hello everyone, considering that more or less everyone here is related to computers and also enjoying the convenience of machine learning technology, today we  are going to bring you a demonstration about machine learning.
+-----
+P1:
+First, please focus on the defination of machine learning. First please take a look at this. 
+
+-----
+P2:
+In this defination, the E is the Experience, and the T is the Task, and the P refer to the Performance Measure.
+念PPT
+/*
+And when it comes to the this scenario: 
+
+Suppose we feed a learning algorithm a lot of historical weather data, and have it learn to predict weather. In this setting, what is E?
+Emmm, seems no one tend to answer it, so I'm going to explain it.
+In this setting, T is the weather prediction task, and the P is the probability of it correctly predicting a future date's weather, and the E points to the process of the algorithm examining a large amount of historical weather data.
+
+*/
+
+-----
+P3:
+Emmm... A little bit complex and awkward, and here comes some more frienfly definations of Machine Learning.
+
+-----
+P4:
+Maybe you don't particularly understand machine learning yet, come on, let me find some real-world scenarios.
+念PPT
+
+
+
+-----------------
+胡文强
+
+-----
+P1:
+Now let's me invite you the practical application of the machine learning.
+
+-----
+P2:
+Aren't you familiar with Self-Driving? How do they do it? Is there a read man behind controlling your car like a remote-controlled one? Have you not used face ID yet?
