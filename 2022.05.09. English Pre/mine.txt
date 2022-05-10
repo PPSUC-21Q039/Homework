@@ -1,0 +1,3 @@
+Considering most of us are learning programming languages, such as the C programming languages and Python programming language, and I believe not all the teachers are interested in introducing the history of the programming languages. So let's me share you some!
+
+What if I say that the C Programming Language is only an attachment of the UNIX Operating System, and are used first to write this Operating System? Yes, it's not a programming language that are originally created for common developing, it was applied to system developing first. 
