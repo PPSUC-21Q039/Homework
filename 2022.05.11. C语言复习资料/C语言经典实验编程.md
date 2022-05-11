@@ -11,7 +11,11 @@ main()
   	int i,x,flag=1;
   	scanf(“%d”,&x);
   	for(i=2;i<x;i++)
-      	if(x%i==0) {flag=0;break;}
+      	if(x%i==0) 
+        {
+            flag=0;
+            break;
+        }
   	if(flag)
      	printf(“%d 是素数 ”,x);
   	else
