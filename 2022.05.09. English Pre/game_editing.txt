@@ -1,4 +1,4 @@
-Considering the awkward situation of the last presentation, I decided to give all of you another kind of pre, and I'll show you how to use cheat engine to edit the game value stored in memory to enhance out game experience, such as increasing the ammo number, the life rate and so on.
+Considering the awkward situation of my last presentation, I decided to give all of you another kind of pre, and I'll show you how to use cheat engine to edit the game value stored in memory to enhance out game experience, such as increasing the ammo number, the life rate and so on.
 
 I believe all of us have learned some basic knowledge of Computer more or less in last semester's course, and I assume that you know that when a program is running, it must be stored in RAM, Random Access Memory, also memory. So, with the program itself, the values are also stored with it. And then, I can use some tools to edit the values, and it's a part of reverse engineering, named Dynamic Debugging.
 
