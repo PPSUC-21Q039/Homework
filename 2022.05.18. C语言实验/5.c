@@ -8,12 +8,15 @@
 
 #include<stdio.h>
 
-int main(){
-	int row,half;
+int main(int argc, char * argv[])
+{
 
-	printf("输入要打印的行数:");
+	int row = 0;
+    int half;
+    
+    //row = atoi(argv);
+    printf("输入要打印的行数:");
 	scanf("%d", &row);
-
 	half = row / 2 + 1;
 	for(int i = 1; i <= half; i++)
     {
