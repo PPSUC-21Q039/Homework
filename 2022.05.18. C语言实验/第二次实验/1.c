@@ -12,8 +12,9 @@ int main()
 {
 	int i = 0;
 	int j = 0;
-    int count = 0;
+    int count = 1;
     int result[50]={0};
+    result[0] = 2; 
     
     for (i = 3; i <= 200; i++) // 2是偶数，但是2却是素数
    	{
@@ -35,6 +36,7 @@ int main()
     }
     
     count = 1;
+    /*
     for (i = 0; i < 50; i++)
     {
     	if (result[i] != 0)
@@ -51,6 +53,16 @@ int main()
 			}
 		}
 	}
+    */
+    for (i = 0; i < 50; i++)
+    {
+        if (result[i] != 0)
+        {
+            if (i % 7 == 0)
+                printf("\n");
+            printf("%-4d ", result[i]);
+        }
+    }
     return 0;
 }
 
